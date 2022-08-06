@@ -241,4 +241,12 @@ All the above options work well together.
 
 ### Authors &copy;
 - Jedidiah Ezana
+<a>
+        hanijzana2012@gmail.com
+</a>
+
 - Daniel Micah
+<a>
+        Danielmicah73@gmail.com
+</a>
+
