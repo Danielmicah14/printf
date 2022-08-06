@@ -6,13 +6,12 @@
 ------------
 
 he printf function sends formatted output to stdout. A custom _printf() for learning purposes was developed by cohor-8 Students:
-<link>
+<a>
 	hanijzana2012@gmail.com
-</link>
-<link>
+</a>
+<a>
 	Danielmicah73@gmail.com
-</link>
-
+</a>
 
 - _printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
 These arguments are placed using the percentage '%' operator
